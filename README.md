@@ -16,8 +16,7 @@
 - Now your server will be stopped
 
 #### Quick Demo 🖥
-<img width="842" alt="Screenshot 2021-08-12 at 3 00 08 PM" src="https://user-images.githubusercontent.com/56252259/129175722-f64409a6-02ff-483f-a3d2-a0249452a0aa.png">
-
+<img width="842" alt="Screenshot 2021-08-12 at 10 48 19 PM" src="https://user-images.githubusercontent.com/56252259/129240291-cd181387-1aa9-42cc-b2f9-55a0c4537835.png">
 
 # Routes 🗺
 - Get Flight Details: ```http://localhost:8080/flights```
