@@ -1,4 +1,4 @@
-# Flightly- Server📦
+# Flightly- Server 📦
 * Flightly is an flight details app, which shows details of variuos flights.
 * Flightly purely runs on on a server. The server is made using Swift and [Perfect](https://perfect.org).
 
