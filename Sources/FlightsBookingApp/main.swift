@@ -6,6 +6,7 @@ import PerfectHTTPServer
 
 let server = HTTPServer()
 server.serverPort = 8080
+server.addRoutes(setupRouter())
 
 do {
     try server.start()
