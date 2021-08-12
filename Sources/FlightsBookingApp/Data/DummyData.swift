@@ -169,3 +169,26 @@ func getFlightsDetailData() -> [[String: Any]] {
          "fareType": "Flex",
          "cancellation":"Cancellation Available"]]
 }
+
+//MARK:- WEBSITE
+func getIndexData() -> String {
+    return """
+<h1 style="color: #5e9ca0;">Server Side Programming in Swift</h1>
+<h2 style="color: #2e6c80;">Swift can do a lot more than we think</h2>
+<p>All the APIs that are being used by Whoosh app are written in Swift using the framework Perfect. Perfect has done all the heavy lifting, and all we need to do is use it's APIs.&nbsp;</p>
+<p>In regards of NodeJS, Perfect is Express for us. In fact, a lot more. Here's what Perfect can do</p>
+<h2 style="color: #2e6c80;">Some features of Perfect:</h2>
+<ol style="list-style: none; font-size: 14px; line-height: 32px; font-weight: bold;">
+<li style="clear: both;">Creating HTTP Server</li>
+<li style="clear: both;">Routing</li>
+<li style="clear: both;">DB Connections (Mongo, MySQL, Maria, Postgres etc)</li>
+<li style="clear: both;">Web Sockets</li>
+<li style="clear: both;">File Handling</li>
+<li style="clear: both;">Server extensions for messaging queues (Kafka, Mosquitto, Zookeeper etc)</li>
+<li style="clear: both;">Deployment (directly on EC2)</li>
+<li style="clear: both;">... and a lot more</li>
+</ol>
+<p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</p>
+<h2 style="color: #2e6c80;">Let's give it a try:</h2>
+"""
+}
