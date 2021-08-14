@@ -5,7 +5,7 @@
 # How to use? 🚩
 
 ### Start Server : ✅
-- Just click on the Build button on Xcode and you are ready to use it.
+-  Click on the Build button on Xcode and you are ready to use it.
 
 ### Shut Server : ❌
 - Open terminal
